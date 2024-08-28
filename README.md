@@ -1,23 +1,46 @@
-## Welcome to my corner of the internet! 👋 
+# Welcome to My Corner of the Internet! 👋
 
-### I'm **Pierre Averous**, a 27-year-old **code wizard** 🧙‍♂️ with 3 years of dev magic under my belt. I’m currently making waves 🌊 at **Speedway** as a full-time developer, where I turn ideas into reality.
+I'm **Pierre Averous**, a 27-year-old **code wizard** 🧙‍♂️ with 3 years of dev magic under my belt. I’m currently making waves 🌊 at **Speedway** as a full-time developer, where I turn ideas into reality.
 
-### 🔥 What I Bring to the Table
-- **Frontend Sorcery**: ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🔥 What I Bring to the Table
 
-- **Backend Alchemy**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frontend Sorcery:
+- **React**: Building dynamic, responsive UIs.
+- **Next.js**: Server-side rendering and static site generation.
+- **JavaScript**: The backbone of modern web apps.
+- **HTML5 & CSS3**: Crafting structured and styled web content.
+- **Bootstrap**: Quickly styling responsive websites.
 
-- **Blockchain Magic**: ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/-Hardhat-F1C40F?style=for-the-badge&logo=hardhat&logoColor=black) ![Foundry](https://img.shields.io/badge/-Foundry-222222?style=for-the-badge&logo=foundry&logoColor=white)
+### Backend Alchemy:
+- **PHP & Symfony**: Powerful backend development.
+- **Ruby on Rails**: Rapid application development.
+- **MySQL & PostgreSQL**: Managing and querying robust databases.
 
-### 🚀 Let’s Build Something Epic Together!
+### Blockchain Magic:
+- **Solidity**: Smart contracts development.
+- **Hardhat**: Ethereum development environment.
+- **Foundry**: Testing and deploying decentralized applications.
+
+## 🚀 Let’s Build Something Epic Together!
 I’m all about creating cool stuff with a side of fun. Whether it’s crafting sleek UIs or diving deep into blockchain tech, I’m ready to bring the heat. Let’s vibe and build something extraordinary!
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true&count_private=true" height="180px" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Pierre's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+## 📌 Pinned Repositories
+
+- **[cv-de-pierre](https://github.com/pierreaverous/cv-de-pierre)**: A web-based CV showcasing my skills and experiences.
+- **[pierre-film-list](https://github.com/pierreaverous/pierre-film-list)**: A project to manage and track movies.
+- **[rails-garden](https://github.com/pierreaverous/rails-garden)**: A Ruby on Rails application for gardening enthusiasts.
+- **[rails-longest-word-game](https://github.com/pierreaverous/rails-longest-word-game)**: A game built with Ruby on Rails.
+- **[GN13008/sailsessions](https://github.com/GN13008/sailsessions)**: First Rails project - a team-based prototype.
+- **[GN13008/doppelganger](https://github.com/GN13008/doppelganger)**: Team project - an Airbnb clone.
+
+## 🏆 Contributions
+I've made **1,703 contributions** in the last year across various projects, from code reviews to feature development.
 
 Feel free to reach out or explore my projects—let’s create something that’ll blow minds! 😎
