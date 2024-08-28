@@ -1,6 +1,6 @@
 ## Welcome to my corner of the internet! 👋 
 
-I'm **Pierre Averous**, a 27-year-old **code wizard** 🧙‍♂️ with 3 years of dev magic under my belt. I’m currently making waves 🌊 at **Speedway** as a full-time developer, where I turn ideas into reality.
+###I'm **Pierre Averous**, a 27-year-old **code wizard** 🧙‍♂️ with 3 years of dev magic under my belt. I’m currently making waves 🌊 at **Speedway** as a full-time developer, where I turn ideas into reality.
 
 ![Coder GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
