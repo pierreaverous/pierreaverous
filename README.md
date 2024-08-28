@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome to my corner of the internet! 👋 
 
-Welcome to my corner of the internet! I'm **Pierre Averous**, a 27-year-old code wizard 🧙‍♂️ with 3 years of dev magic under my belt. I’m currently making waves 🌊 at Speedway as a full-time developer, where I turn ideas into reality.
+I'm **Pierre Averous**, a 27-year-old **code wizard** 🧙‍♂️ with 3 years of dev magic under my belt. I’m currently making waves 🌊 at **Speedway** as a full-time developer, where I turn ideas into reality.
 
 ![Coder GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
@@ -16,7 +16,7 @@ I’m all about creating cool stuff with a side of fun. Whether it’s crafting 
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true" height="180px" />
