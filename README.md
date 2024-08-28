@@ -2,7 +2,7 @@
 
 ### I'm **Pierre Averous**, a 27-year-old **code wizard** 🧙‍♂️ with 3 years of dev magic under my belt. I’m currently making waves 🌊 at **Speedway** as a full-time developer, where I turn ideas into reality.
 
-![Coder GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+![Coder GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3I3d2dieGQydXppcHAyZ2plOGoyMXhoZ2F4eXFhOWRtNmNuYXhueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 ### 🔥 What I Bring to the Table
 - **Frontend Sorcery**: ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
