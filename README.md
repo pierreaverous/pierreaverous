@@ -16,8 +16,8 @@ I’m all about creating cool stuff with a side of fun. Whether it’s crafting 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true&count_private=true" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true&count_private=true" height="180px" />
 </div>
 
 Feel free to reach out or explore my projects—let’s create something that’ll blow minds! 😎
