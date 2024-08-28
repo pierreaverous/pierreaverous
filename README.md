@@ -2,6 +2,8 @@
 
 Welcome to my corner of the internet! I'm **Pierre Averous**, a 27-year-old code wizard 🧙‍♂️ with 3 years of dev magic under my belt. I’m currently making waves 🌊 at Speedway as a full-time developer, where I turn ideas into reality.
 
+![Coder GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+
 ### 🔥 What I Bring to the Table
 - **Frontend Sorcery**: ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -14,8 +16,10 @@ I’m all about creating cool stuff with a side of fun. Whether it’s crafting 
 
 ### 📊 GitHub Stats
 
-![Pierre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Pierre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 Feel free to reach out or explore my projects—let’s create something that’ll blow minds! 😎
