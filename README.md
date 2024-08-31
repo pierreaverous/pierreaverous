@@ -14,12 +14,14 @@
 I’m all about creating cool stuff with a side of fun. Whether it’s crafting sleek UIs or diving deep into blockchain tech, I’m ready to bring the heat. Let’s vibe and build something extraordinary!
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=default&include_all_commits=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true&count_private=true" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
+ -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierreaverous&count_private=true&show_icons=true&theme=default&include_all_commits=true&token=gh_rVOFGROtAWS3B2drCSAKF3HmeQmPFi17QucG)
 </div>
 
 
