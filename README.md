@@ -14,18 +14,18 @@
 I’m all about creating cool stuff with a side of fun. Whether it’s crafting sleek UIs or diving deep into blockchain tech, I’m ready to bring the heat. Let’s vibe and build something extraordinary!
 
 ### 📊 GitHub Stats
-<!--<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true" height="180px" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true&v=1" height="180px" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true" height="180px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="180px" />
-</div>   -->
+</div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<!--<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreaverous&theme=radical&hide_border=true&count_private=true&token=gh_rVOFGROtAWS3B2drCSAKF3HmeQmPFi17QucG" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true&count_private=true&token=gh_rVOFGROtAWS3B2drCSAKF3HmeQmPFi17QucG"  height="180px" />
   <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&token=VOTRE_TOKEN" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&token=gh_rVOFGROtAWS3B2drCSAKF3HmeQmPFi17QucG" height="180px" />
-</div>
+</div>-->
 
 
 Feel free to reach out or explore my projects—let’s create something that’ll blow minds! 😎
