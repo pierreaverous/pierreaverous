@@ -18,6 +18,8 @@ I’m all about creating cool stuff with a side of fun. Whether it’s crafting 
 <img src="https://github-readme-streak-stats-pa.vercel.app?user=pierreaverous&theme=radical&hide_border=true" height="180px" alt="GitHub Streak Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true" height="180px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=pierreaverous&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreaverous&layout=compact&theme=radical&hide_border=true" height="180px" />
+
 </div>
 
 <!--<div align="center" style="display: flex; justify-content: center; align-items: center;">
